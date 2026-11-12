@@ -59,5 +59,5 @@ python _make_assets_boji.py      # 由真实渲染截图 + 内嵌立绘生成封
 
 ## 在线地址
 
-- **B站 TOY**：待回填（提交后回填 id 与 `published` 状态）
-- **GitHub Pages**：待回填
+- **B站 TOY（已上线）**：https://www.bilibili.com/toy/hashimiao-thinmuscle/index.html — id `54348419697664`，2026-11-12 提交并 `published`，`GAME` / `PUBLIC` / 水印开启
+- **GitHub Pages（已上线）**：https://604665656.github.io/hashimiao-thinmuscle/ — 仓库 `604665656/hashimiao-thinmuscle`，commit `79a0212`；线上返回 758937 B，sha16 `6e414053e514f67c`，与本地成品逐字节一致
