@@ -1,0 +1,30 @@
+{
+  "key": "hashimiao-thinmuscle",
+  "title": "薄肌浓度检测仪 · 陪练桌宠",
+  "source": "薄肌浓度检测仪_正式版.html",
+  "source_bytes": 758937,
+  "source_kib": 741.1,
+  "sha256": "6e414053e514f67c75b26013a28d4c882f62f0aa5cdc2dc0740d7957020ed028",
+  "sha256_16": "6e414053e514f67c",
+  "entry_bytes": 758937,
+  "split": false,
+  "category": "GAME",
+  "visibility": "public",
+  "checks": {
+    "title": "薄肌浓度检测仪 · 陪练桌宠",
+    "inline_script": 1,
+    "script_src": 0,
+    "style": 1,
+    "link_css": 0,
+    "data_image": 43,
+    "http_src_href": 0,
+    "fetch": 0,
+    "xhr": 0,
+    "local_storage": 29,
+    "canvas": 2,
+    "get_context": 12,
+    "const_gallery": 1,
+    "var_gallery": 0,
+    "html_closed": true
+  }
+}
